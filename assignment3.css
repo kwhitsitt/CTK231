@@ -1,0 +1,44 @@
+.lightbluebg{
+    background-color: aqua;
+}
+
+h1{
+    color: #ff0000;
+    background-color: black;
+}
+
+h2{
+    color: #ff0000;
+    background-color: rgb(13, 0, 255);
+}
+
+h3{
+    color: #ff0000;
+    background-color: rgb(244, 255, 31);
+}
+
+p{
+    color:#4d066d;
+background-color: bisque;
+}
+
+#purplebg{
+    background-color: #d374ff;
+}
+
+a {
+  color: #ff0000;
+}
+
+a:link {
+  color: #ff0000;
+}
+
+a:visited {
+  color: hwb(128 0% 0%);
+}
+
+
+a:hover {
+  color: hsl(61, 100%, 50%);
+}        
