@@ -1,0 +1,73 @@
+h1{
+  font-family: Helvetica;
+  font-weight: normal;
+  font-style: italic;
+  color: orange;
+}
+
+h2{
+  font-family: Helvetica;
+  font-weight: normal;
+  font-style:italic;
+  color:orange;
+}
+
+h3{
+  font-family: Helvetica;
+  font-weight: normal;
+  font-style: italic;
+  color: orange;
+}
+
+body{
+  font-family: Helvetica;
+  background-image: url(Darules.jpg);
+  background-repeat: no-repeat;
+  background-position: top right;
+}
+
+.imgbox{
+  border: 12px solid black;
+  padding: 5px;
+  background-color: yellow; 
+}
+
+.centertext{
+  text-align: center;
+}
+
+.justifytext{
+  text-align: justify;
+}
+
+.lightbluebg{
+    background-color: aqua;
+}
+
+
+p{
+    color:#4d066d;
+background-color: bisque;
+}
+
+#purplebg{
+    background-color: #d374ff;
+}
+
+a {
+  color: #ff0000;
+}
+
+a:link {
+  color: #ff0000;
+}
+
+a:visited {
+  color: hwb(128 0% 0%);
+}
+
+
+a:hover {
+  color: hsl(61, 100%, 50%);
+}        
+
