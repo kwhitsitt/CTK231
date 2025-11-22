@@ -64,14 +64,12 @@ nav li a{
     text-align: center;
     padding: 15px;
     display: block;
-    transition: background-color 0.5s;
+    transition: background-color 0.25s;
 }
 
 nav li a:hover{
     background-color: #9C00D0;
     color: white;
-    border-top-left-radius: 12px;
-    border-top-right-radius: 12px;
 }
 
 .vertical{
@@ -79,8 +77,7 @@ nav li a:hover{
   vertical-align: middle;
  grid-column: span 2;
  margin-left: 0px;
- margin-right: 74px;
- 
+ margin-right: 55px;
 }
 
 main{
@@ -93,7 +90,6 @@ main{
   grid-column: span 2;
   height: 549px;
   width: 368px;
-  box-shadow: 10px 10px 10px #999; /* x, y, blur, color */
 }
 
 .text{
